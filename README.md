@@ -2,7 +2,7 @@
 Console Fader Animator class in C++. This is the more advanced version of [FadingConsole](https://github.com/ioncodes/FadingConsole).
 
 # Screenies
-![gif](http://i.imgur.com/xvkhFpQ.gif)
+[GIF](http://i.imgur.com/xvkhFpQ.gifv)
 
 # Usage
 
